@@ -1,36 +1,3 @@
 # Documentation
 
-- [Getting started](./getting-started.md)
-- [Tutorial](./tutorial.md)
-- [Prisma ecosystem](./prisma-ecosystem.md)
-- [Prisma schema file](./prisma-schema-file.md)
-- [Data sources](./data-sources.md)
-- [Data modeling](./data-modeling.md)
-- [Relations](./relations.md)
-- [Prisma 2 CLI](./prisma2-cli.md)
-- [Development mode](./development-mode.md)
-- [Introspection](./introspection.md)
-- [Limitations](./limitations.md)
-- Core
-  - Connectors
-    - [MySQL](./core/connectors/mysql.md)
-    - [PostgreSQL](./core/connectors/postgresql.md)
-    - [SQLite](./core/connectors/sqlite.md)
-    - [MongoDB](./core/connectors/mongo.md)
-  - Generators
-    - [Photon.js](./core/generators/photonjs.md)
-- Photon
-  - [API](./photon/api.md)
-  - [Use only Photon](./photon/use-only-photon.md)
-  - [Code generation & Node.js setup](./photon/codegen-and-node-setup.md)
-  - [Deployment](./photon/deployment.md)
-- Lift
-  - [Steps](./lift/steps.md)
-  - [Migration files](./lift/migration-files.md)
-  - [Use only Lift](./lift/use-only-lift.md)
-- [Supported databases](./supported-databases.md)
-- [Telemetry](./telemetry.md)
-- [How to provide feedback for Prisma 2?](./prisma2-feedback.md)
-- [Release process](./releases.md)
-- [FAQ](./faq.md)
-- [Glossary](./glossary.md)
+The Prisma documentation has been moved to [**`https://www.prisma.io/docs`**](https://www.prisma.io/docs).
